@@ -1,7 +1,9 @@
 # DSGM 2024 Data Science for Global Manager
 
 this is a great score. you must bring your friends!
+
 i like this course very much.
+
 i will bring more friend next week.
 
 # Introduction
@@ -23,3 +25,16 @@ Downey, A. (2014). [Think Python. How to Think Like a Computer Scientist](https:
 # References
 
 Python Tutorial [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
+
+# Monika Kristina
+
+# Education
+- GMBA, Tunghai University
+- BA, UMN University
+
+# Work Experience
+- ABC Company
+- BLABLA Company
+
+# Skill 
+- Adobe Illustrator 
